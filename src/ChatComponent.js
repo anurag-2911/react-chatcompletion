@@ -27,7 +27,7 @@ function ChatComponent() {
 
     return (
         <div style={{ margin: '20px' }}>
-            <h1>OpenAI Chat</h1>
+            <h1>Chat Completion</h1>
             <textarea
                 rows="4"
                 cols="50"
